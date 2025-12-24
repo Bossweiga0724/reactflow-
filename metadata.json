@@ -1,0 +1,5 @@
+{
+  "name": "Coze-like Workflow Builder",
+  "description": "A high-end, production-ready visual workflow editor built with React Flow, Zustand, and a schema-driven architecture for AI Agent orchestration.",
+  "requestFramePermissions": []
+}
